@@ -1,7 +1,4 @@
 # mac-mamp-mysqldump
-a bash shell script to backup your mamp mysql db on your Mac.
-
-
 A bash shell script to backup your database if you have MAMP (not MAMP Pro).
 Note you'll need to give your script permissions so chmod +x dump.sh
 
