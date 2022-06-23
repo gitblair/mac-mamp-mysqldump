@@ -8,3 +8,5 @@ The sql file will then be gzipped with same naming structure.
 
 Note it'll drop it on your Mac Desktop so change that to wherever you want to save it.
 
+Of course, you can cron it.
+Crontab Guru is an amazing resource: https://crontab.guru
